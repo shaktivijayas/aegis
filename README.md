@@ -230,7 +230,7 @@ A well-tuned LLM Sentinel should significantly exceed these baselines.
 
 ## 👨‍💻 Author
 
-**Shakti Vijay A S** — [GitHub](https://github.com/shaktivijayas) · [LinkedIn](https://linkedin.com/in/ShakthiVijay)
+**Shakti Vijay A S** — [GitHub](https://github.com/shaktivijayas) · [LinkedIn](https://www.linkedin.com/in/shaktidev/)
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
